@@ -3,3 +3,4 @@ export * from './leather';
 export * from './unisat';
 export * from './base';
 export * from './mm-snap';
+export * from './openbit';
